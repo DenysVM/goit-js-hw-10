@@ -46,6 +46,7 @@ function createCatList() {
 }
 
 // Вызываем функцию создания списка пород котов при необходимости
+
 createCatList();
 
 function onSelectChange(evt) {
